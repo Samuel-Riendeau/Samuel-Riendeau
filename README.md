@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Samuel-Riendeau
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning web design, databases, object oriented programming
+- 💞️ I’m looking to collaborate on class projects
+- 📫 How to reach me: Samuel.Riendeau@stu.crc-lennox.qc.ca
+- 😄 Pronouns: he/him
